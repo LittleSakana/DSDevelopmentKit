@@ -1,2 +1,2 @@
 # DSDevelopmentKit
-Private documents
+Development kit include some interesting components.
